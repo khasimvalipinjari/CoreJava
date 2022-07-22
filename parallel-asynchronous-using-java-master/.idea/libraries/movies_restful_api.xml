@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="movies-restful-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/parallel-asynchronous-using-java-master/libs/movies-restful-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
